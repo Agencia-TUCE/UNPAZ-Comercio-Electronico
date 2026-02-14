@@ -13,13 +13,13 @@ CONTENIDO: prototipo de página web de e-commerce
 LINK: ttps://github.com/Kenma-5/primer-prototipo-ecommerce
 
 ---
-ALUMNO 1: 
+ALUMNO 1: Angel Saucedo
 
-MATERIA: 
+MATERIA: Desarollo web
 
-CONTENIDO: 
+CONTENIDO: pagina institucional
 
-LINK: 
+LINK: https://github.com/W3-Briel/TUCE-lenceria-express-ok
 
 ---
 ALUMNO 1: 
