@@ -4,11 +4,11 @@
 
 
 
-ALUMNO 1: FLORENCIA CORONEL 
+ALUMNO 1: Florencia Coronel 
 
 MATERIA: Usabilidad, Seguridad y Estándares Web
 
-CONTENIDO: prototipo de página web de e-commerce
+CONTENIDO: Prototipo de página web de e-commerce
 
 LINK: https://github.com/Kenma-5/primer-prototipo-ecommerce
 
@@ -17,7 +17,7 @@ ALUMNO 1: Angel Saucedo
 
 MATERIA: Desarollo web
 
-CONTENIDO: pagina institucional
+CONTENIDO: Pagina institucional
 
 LINK: https://github.com/W3-Briel/TUCE-lenceria-express-ok
 
