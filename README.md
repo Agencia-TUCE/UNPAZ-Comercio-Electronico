@@ -22,13 +22,17 @@ CONTENIDO: Pagina institucional
 LINK: https://github.com/W3-Briel/TUCE-lenceria-express-ok
 
 ---
-ALUMNO 1: 
+ALUMNO 1: Angel Saucedo 
+ALUMNO 2: Matias Sanagua
+ALUMNO 3: Valen Diaz
+ALUMNO 4: Walter david
+ALUMNO 5: LEILA
 
-MATERIA: 
+MATERIA: Desarrollo web
 
-CONTENIDO: 
+CONTENIDO: pagina con catalogo
 
-LINK: 
+LINK: https://github.com/W3-Briel/TUCE-Tienda-con-catalogo
 
 ---
 ALUMNO 1: 
