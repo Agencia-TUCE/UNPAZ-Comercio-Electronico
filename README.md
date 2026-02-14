@@ -10,7 +10,7 @@ MATERIA: Usabilidad, Seguridad y Estándares Web
 
 CONTENIDO: prototipo de página web de e-commerce
 
-LINK: ttps://github.com/Kenma-5/primer-prototipo-ecommerce
+LINK: https://github.com/Kenma-5/primer-prototipo-ecommerce
 
 ---
 ALUMNO 1: Angel Saucedo
