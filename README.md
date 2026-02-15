@@ -35,13 +35,13 @@ CONTENIDO: pagina con catalogo
 LINK: https://github.com/W3-Briel/TUCE-Tienda-con-catalogo
 
 ---
-ALUMNO 1: 
+ALUMNO 1: JUAN
 
-MATERIA: 
+MATERIA: Usabilidad, Seguridad y Estándares Web
 
-CONTENIDO: 
+CONTENIDO: mejora de la interfaz web de MSCHF
 
-LINK: 
+LINK: https://github.com/juan-espindola1/Mejora-de-interfaz-web-MSCHF
 
 ---
 ALUMNO 1: 
@@ -63,3 +63,13 @@ LINK:
 
 ---
 OTROS
+
+https://sites.google.com/view/tiendaunpaz-com-ar/
+
+https://comunidadtuce.site/
+
+https://youtu.be/t6TcqULVz3Q?si=QTaXcF5vxkZCzHBI
+
+https://youtu.be/2nyrkPgXIeY?si=En7UpzwrSUXNPQGB
+
+https://publicaciones.unpaz.edu.ar/OJS/index.php/ti/article/view/1755/1656
