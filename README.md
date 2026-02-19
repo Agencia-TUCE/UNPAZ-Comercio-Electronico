@@ -13,7 +13,7 @@ CONTENIDO: Prototipo de página web de e-commerce
 LINK: https://github.com/Kenma-5/primer-prototipo-ecommerce
 
 ---
-ALUMNO 1: Angel Saucedo
+ALUMNO 2: Angel Saucedo
 
 MATERIA: Desarollo web
 
@@ -26,31 +26,31 @@ ALUMNO 1: Angel Saucedo
 ALUMNO 2: Matias Sanagua
 ALUMNO 3: Valen Diaz
 ALUMNO 4: Walter david
-ALUMNO 5: LEILA
+ALUMNO 5: Leila
 
 MATERIA: Desarrollo web
 
-CONTENIDO: pagina con catalogo
+CONTENIDO: Página con catalogo
 
 LINK: https://github.com/W3-Briel/TUCE-Tienda-con-catalogo
 
 ---
-ALUMNO 1: JUAN
+ALUMNO 3: JUAN
 
 MATERIA: Usabilidad, Seguridad y Estándares Web
 
-CONTENIDO: mejora de la interfaz web de MSCHF
+CONTENIDO: Mejora de la interfaz web de MSCHF
 
 LINK: https://github.com/juan-espindola1/Mejora-de-interfaz-web-MSCHF
 
 ---
-ALUMNO 1: 
+ALUMNO 4: Ezequiel Igor
 
-MATERIA: 
+MATERIA: Desarrollo Web
 
-CONTENIDO: 
+CONTENIDO: Página de prueba para editar y practicar en clase 
 
-LINK: 
+LINK: https://github.com/igorezequiel22/Sitio-Web-HTML-CSS.git
 
 ---
 ALUMNO 1: 
