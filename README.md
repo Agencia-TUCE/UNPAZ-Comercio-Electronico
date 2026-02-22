@@ -53,13 +53,13 @@ CONTENIDO: Página de prueba para editar y practicar en clase
 LINK: https://github.com/igorezequiel22/Sitio-Web-HTML-CSS.git
 
 ---
-ALUMNO 1: 
+ALUMNO 1: Ezequiel
 
-MATERIA: 
+MATERIA: Desarrollo web
 
-CONTENIDO: 
+CONTENIDO: material de cursada
 
-LINK: 
+LINK: https://desarrolloweb2025c1.github.io/Desarrollo-Web/oficiales.html
 
 ---
 OTROS
