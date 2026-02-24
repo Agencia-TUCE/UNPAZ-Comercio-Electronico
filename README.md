@@ -76,4 +76,4 @@ https://publicaciones.unpaz.edu.ar/OJS/index.php/ti/article/view/1755/1656
 
 https://sites.google.com/view/cocoyalmendra/p%C3%A1gina-principal?read_current=1 
 
-https://t.me/tuce_comercio_bot�
+https://t.me/tuce_comercio_bot
